@@ -25,7 +25,7 @@ SECRET_KEY = 'bv+8n6*v@ji_hehj4*2$j(xc739l)*n+ju_4fe7l2d*at55ezm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['guidetest-lucad.c9users.io']
+ALLOWED_HOSTS = ['guidetest-lucad.c9users.io','guidetest-luca.herokuapp.com']
 
 
 # Application definition
